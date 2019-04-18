@@ -10,6 +10,8 @@ namespace Lekcja4
     {
         static void Main(string[] args)
         {
+            // PĘTLE |WHILE|FOR|DO WHILE
+
         }
     }
 }
